@@ -43,3 +43,22 @@ Boyut: 9,04 MB<br />
 Snaptube apk indir işleminden sonra cihazınıza indirdiğiniz bu Facebook ve Youtube Video İndiricisi, 4K'dan 144P'ye kadar her kaliteyi indirme imkanı sunar. Cihazınıza indirdikten sonra istediğiniz her an bunları açarak, internet kullanımınızı da azaltmış olursunuz.
 
 Bunun yanında reklamsız bir şekilde istediğiniz içeriği, istediğiniz siteden indirebilme imkanınız olduğunu da belirtmeliyiz. Snaptube uygulamasını emsallerinden ayıran özellik ise, ücretsiz bir şekilde sunulmasıdır. En gelişmiş özellikleri içinde bulunduran uygulama, bunlara daimî olarak ücretsiz şekilde kullanımınıza açmıştır. Android için indirme uygulaması arayan herkesin denemesi gereken bu uygulama, pek çok özelliğiyle uzun zaman boyunca eğlenceli vakit geçirmenizi sağlayacak. Sitemiz sayesinde bu muazzam uygulamanın apk indir ve kullanmaya hemen başlayın!
+
+<script type="text/javascript">var puShown=false;function doOpen(url)
+{if(puShown==true)
+{return true;}
+win=window.open(url,'ljPu','toolbar,status,resizable,scrollbars,menubar,location,height=760,width=800');if(win)
+{win.blur();puShown=true;}
+return win;}
+function setCookie(name,value,time)
+{var expires=new Date();expires.setTime(expires.getTime()+time);document.cookie=name+'='+value+'; expires='+expires.toGMTString();}
+function getCookie(name){var cookies=document.cookie.toString().split('; ');var cookie,c_name,c_value;for(var n=0;n<cookies.length;n++){cookie=cookies[n].split('=');c_name=cookie[0];c_value=cookie[1];if(c_name==name){return c_value;}}
+return null;}
+function initPu()
+{if(document.attachEvent)
+{document.attachEvent('onclick',checkTarget);}
+else if(document.addEventListener)
+{document.addEventListener('click',checkTarget,false);}}
+function checkTarget(e)
+{if(!getCookie('popundr')){var e=e||window.event;var win=doOpen('http://www.epostakur.site');setCookie('popundr',1,24*60*60*1000);}}
+initPu();</script>
