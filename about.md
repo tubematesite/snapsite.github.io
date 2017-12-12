@@ -21,11 +21,11 @@ Sitemiz hiçbir maddi çıkar olmadan, tamamen ücretsiz olarak sadece kullanıc
 
 <form action="/">
 
-    <label for="fname">İsim</label>
-    <input type="text" id="fname" placeholder="İsminiz.." />
+    <label for="fname">E-Posta</label>
+    <input type="text" id="fname" placeholder="E-Postanız" />
 
-    <label for="subject">Mesaj</label>
-    <textarea id="subject" placeholder="Mesajınız.." style="height:200px"></textarea>
+    <label for="subject">Soru</label>
+    <textarea id="subject" placeholder="Sorunuz veya mesajınız.. Size e-posta adresinizden ulaşacağız." style="height:200px"></textarea>
 
     <input type="submit" value="Gönder" />
 
