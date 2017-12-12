@@ -39,8 +39,10 @@ Boyut: 46,85 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<h2>Retrica Apk İndir: Ücretsiz</h2>
-Retrica 2018 sürümüyle sadece sitemiz aracılığıyla karşınızda! 100'den fazla vintage filtreyle selfielerinizi profesyonel görünüme kavuşturmak için geldik! Her türlü renk filtreler emrinize âmâde.
+<h2>Retrica Kurulumu</h2>
+<ul><li>Sitemizden .APK uzantılı dosyayı indirin. İndirdiğiniz dosyanın üzerine dokunun.</li>
+<li>Bilinmeyen kaynaklar uyarısı verirse "Bilinmeyen Kaynaklara İzin Ver" seçeneğini işaretleyin.</li>
+<li>Kurulum otomatik olarak tamamlanacaktır. Telefon veya tabletinizin ana ekranından uygulamamıza ulaşabilirsiniz.</li></ul>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
@@ -51,4 +53,5 @@ Retrica 2018 sürümüyle sadece sitemiz aracılığıyla karşınızda! 100'den
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-İster yüzdeki lekeleri düzeltin, ister kolajlar yapın, ister eğlenceli efektler ekleyin, isterseniz hareketli GIF fotoğraflarınıza filtre uygulayın!
+<h2>Retrica Apk İndir: Ücretsiz</h2>
+Retrica 2018 sürümüyle sadece sitemiz aracılığıyla karşınızda! 100'den fazla vintage filtreyle selfielerinizi profesyonel görünüme kavuşturmak için geldik! Her türlü renk filtreler emrinize âmâde. İster yüzdeki lekeleri düzeltin, ister kolajlar yapın, ister eğlenceli efektler ekleyin, isterseniz hareketli GIF fotoğraflarınıza filtre uygulayın!
