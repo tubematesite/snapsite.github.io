@@ -23,5 +23,5 @@ Sitemiz hiçbir maddi çıkar olmadan, tamamen ücretsiz olarak sadece kullanıc
  <input type="text" placeholder="İsminiz"><br>
  <input type="email" placeholder="E-posta adresiniz"><br>
  <textarea placeholder="Sorunuz"></textarea><br>
- <button><a href="http://www.snaptubeindir.com/">Gönder</a></button><br>
+ <button><a href="http://retrica.apkindir.site">Gönder</a></button><br>
 </form>
