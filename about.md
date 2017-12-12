@@ -17,11 +17,43 @@ Sitemiz hiçbir maddi çıkar olmadan, tamamen ücretsiz olarak sadece kullanıc
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-### İletişim
+<h3 id="i̇letişim">İletişim</h3>
 
-<form id="iletisim" method="POST">
- <input type="text" placeholder="İsminiz"><br>
- <input type="email" placeholder="E-posta adresiniz"><br>
- <textarea placeholder="Sorunuz"></textarea><br>
- <button><a href="http://retrica.apkindir.site">Gönder</a></button><br>
-</form>
+<form action="/">
+
+    <label for="fname">İsim</label>
+    <input type="text" id="fname" placeholder="İsminiz.." />
+
+    <label for="subject">Mesaj</label>
+    <textarea id="subject" placeholder="Mesajınız.." style="height:200px"></textarea>
+
+    <input type="submit" value="Gönder" />
+
+  </form>
+
+<style>
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+</style>
+
