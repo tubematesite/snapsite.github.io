@@ -33,9 +33,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: #de4913;
-  font-weight: bold;
-
-  line-height: 1.7;
+  line-height: 1.5;
   padding: 0;
 
   @include mobile {
