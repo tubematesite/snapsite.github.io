@@ -38,6 +38,7 @@ Boyut: 46,85 MB<br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<a rel="nofollow" href="https://play.google.com/store/apps/details?id=com.venticake.retrica&hl=tr" target="_blank">Retrica Google Play</a>
 </center>
 <h2>Retrica Kurulumu</h2>
 <ul><li>Sitemizden .APK uzantılı dosyayı indirin. İndirdiğiniz dosyanın üzerine dokunun.</li>
