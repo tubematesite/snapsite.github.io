@@ -38,7 +38,6 @@ Boyut: 46,85 MB<br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<a rel="nofollow" href="https://play.google.com/store/apps/details?id=com.venticake.retrica&hl=tr" target="_blank">Retrica Google Play</a>
 </center>
 <h2>Retrica Kurulumu</h2>
 <ul><li>Sitemizden .APK uzantılı dosyayı indirin. İndirdiğiniz dosyanın üzerine dokunun.</li>
@@ -55,4 +54,5 @@ Boyut: 46,85 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <h2>Retrica Apk İndir: Ücretsiz</h2>
-Retrica 2018 sürümüyle sadece sitemiz aracılığıyla karşınızda! 100'den fazla vintage filtreyle selfielerinizi profesyonel görünüme kavuşturmak için geldik! Her türlü renk filtreler emrinize âmâde. İster yüzdeki lekeleri düzeltin, ister kolajlar yapın, ister eğlenceli efektler ekleyin, isterseniz hareketli GIF fotoğraflarınıza filtre uygulayın!
+Retrica 2018 sürümüyle sadece sitemiz aracılığıyla karşınızda! 100'den fazla vintage filtreyle selfielerinizi profesyonel görünüme kavuşturmak için geldik! Her türlü renk filtreler emrinize âmâde. İster yüzdeki lekeleri düzeltin, ister kolajlar yapın, ister eğlenceli efektler ekleyin, isterseniz hareketli GIF fotoğraflarınıza filtre uygulayın! <a rel="nofollow" href="https://play.google.com/store/apps/details?id=com.venticake.retrica&hl=tr" target="_blank">Retrica Google Play</a> İsterseniz Google Play Store mağazasından da uygulamızı edinebilirsiniz, ancak bazı filtreler ücretli olabilir. Bu yüzden bu sayfanın üstüne çıkıp gerekli .apk dosyasını sitemizden indirmeniz sizin yararınıza olacaktır.
+
