@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Retrica Nasıl Kullanılır?
+title: Game Hacker Nasıl Kullanılır?
 permalink: /nasil-kullanilir
 ---
 
@@ -15,7 +15,8 @@ permalink: /nasil-kullanilir
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <ol>
-<li>Retrica uygulamasını sitemizden indirdikten sonra açın. Açılan ilk ekranda kameranızı göreceksiniz. İsterseniz önceden çektiğiniz fotoğrafı düzenleyin, isterseniz de şimdi Retrica ile anında yeni bir fotoğraf çekin.</li>
-<li>Yüzlerce ücretsiz filtre için ekranı sağa kaydırın. Her geçişte yeni bir filtre fotoğrafınıza uygulanacak.</li>
-<li>İsterseniz Settings > Effects sekmelerine tıklayıp oradan yüz lekelerinizi, sivilceleri vesaire kaldırabilir, diğer düzeltmeleri ve ekstraları da kullanabilirsiniz.</li>
+<li>Uygulamamızı açın. Karşınıza gelen ekranda 1 arama çubuğu ve birçok buton gelecektir. İlk başta butonların hepsi pasif halde olacaktır. Yani üzerine tıklanamaz şekilde göreceksiniz.</li>
+<li>Üstteki arama çubuğuna hangi oyunda Game Hacker'ı kullanmak istiyorsanız o oyunun adını yazın.</li>
+<img src="https://gamehacker.sonsurum.club/SB-Game-Hacker-ss.jpg">
+<li>Kullanmak istediğiniz oyunu seçtiğiniz zaman karşınıza o oyundaki puanı mı yoksa seviyenizi mi değiştireceğiniz şeklinde bir soru çıkacaktır. O kısıma istediğiniz sayıyı yazabilir ve normal bir şekilde oyuna nasıl giriyorsanız giriş yapabilirsiniz. İyi eğlenceler.</li>
 </ol>
