@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Game Hacker APK İndir (2018)
-permalink: /game-hacker-apk-indir
+title: Snaptube APK İndir (2018)
+permalink: /snaptube-apk-indir
 ---
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -15,11 +15,12 @@ permalink: /game-hacker-apk-indir
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <center>
-Adı: Game Hacker Apk İndir<br />
-Geliştirici: SB<br />
-Versiyon: 5.15.1 (2018 Son Sürüm)<br />
-Son Güncelleme: 01 Ocak 2018<br />
-Boyut: 1 MB<br />
+Adı: Snaptube Apk İndirme Sayfası<br />
+Versiyon: 5.00.08 (En Son)<br />
+Son Güncelleme: 17 Ocak 2018<br />
+Gereksinim: Android 3.0 ve Üstü<br />
+Virüs Taraması Sonucu: Temiz ✔<br />
+Boyut: 10 MB<br />
 <center>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
