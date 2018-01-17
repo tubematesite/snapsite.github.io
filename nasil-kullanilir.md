@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Game Hacker Nasıl Kullanılır?
+title: Snaptube Nasıl Kullanılır?
 permalink: /nasil-kullanilir
 ---
 
@@ -14,9 +14,12 @@ permalink: /nasil-kullanilir
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<ol>
-<li>Uygulamamızı açın. Karşınıza gelen ekranda 1 arama çubuğu ve birçok buton gelecektir. İlk başta butonların hepsi pasif halde olacaktır. Yani üzerine tıklanamaz şekilde göreceksiniz.</li>
-<li>Üstteki arama çubuğuna hangi oyunda Game Hacker'ı kullanmak istiyorsanız o oyunun adını yazın.</li>
-<img src="https://gamehacker.sonsurum.club/SB-Game-Hacker-ss.jpg">
-<li>Kullanmak istediğiniz oyunu seçtiğiniz zaman karşınıza o oyundaki puanı mı yoksa seviyenizi mi değiştireceğiniz şeklinde bir soru çıkacaktır. O kısıma istediğiniz sayıyı yazabilir ve normal bir şekilde oyuna nasıl giriyorsanız giriş yapabilirsiniz. İyi eğlenceler.</li>
-</ol>
+<ul><li>Android telefonunuzda veya tabletinizde uygulamamızı başlatın. Eğer hala indirmediyseniz, resmi sitemizden indirin.</li>
+<li>İster popüler veya en iyi videolar gibi bölümlerden herhangi birine gidin. Oradan video seçin. İster aradığınız videoları bu bölümlerde bulamazsanız, arama çubuğunda videoyu aratın.</li>
+<li>Karşınıza çıkan arama sonuçlarından indirmek veya izlemek istediğiniz videoyu seçin.</li>
+<li>Videonun sağ alt tarafındaki küçük kırmızı renkteki indirme simgesine hafifçe dokunun.</li>
+<li>SnapTube URL'yi alıp indirme işlemini başlatana kadar 2-3 saniye bekleyin.</li>
+<li>Şimdi video ve ses biçimlerinin bir listesini alacaksınız. Tercih ettiğiniz format ve kaliteye dokunun.</li>
+<li>İndirme işlemi hemen başlayacak, tamamlanıncaya kadar istediğinizi yapabilirsiniz. İndiği zaman internet paketinizden hiç kota gitmeden istediğiniz kadar videoyu izleyebilirsiniz.</li>
+<li>Not: SnapTube uygulamasının Ayarlar bölümünde varsayılan video indirme konumunu değiştirebilirsiniz.</li>
+</ul>
