@@ -46,20 +46,27 @@ Boyut: 10 MB<br />
 <li>APK dosyasını nereye indirdiyseniz o klasöre gidin ve üzerine dokunun.</li>
 <li>Android cihazınızın menüsündeki > güvenlik ayarlarınıza gidin ve > Bilinmeyen Kaynaklara İzin Ver seçeneğini işaretleyerek uygulamanın yüklenmesine izin verin.</li>
 <li>İleri > İleri diyerek kurulumu tamamlayın. Şimdi cihazınızın ana sayfasına uygulamamızın logosu gelmiş olacaktır. Hemen kullanmaya başlayabilirsiniz.</li></ul>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
+<center>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-7942429830883405" data-ad-slot="4977168797" style="display: inline-block; height: 90px; width: 200px;"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</center>
 
 <strong>Nasıl Kurulur? (Resimli Anlatım)</strong>
 <img src="http://snaptube.apkindir.site/snaptube-kurulum.png">
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Esneking -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4659442398"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <h2>Snaptube Nasıl Kullanılır?</h2>
 <ul><li>Android telefonunuzda veya tabletinizde uygulamamızı başlatın. Eğer hala indirmediyseniz, resmi sitemizden indirin.</li>
 <li>İster popüler veya en iyi videolar gibi bölümlerden herhangi birine gidin. Oradan video seçin. İster aradığınız videoları bu bölümlerde bulamazsanız, arama çubuğunda videoyu aratın.</li>
