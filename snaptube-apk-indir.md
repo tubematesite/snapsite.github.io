@@ -57,6 +57,7 @@ Boyut: 10 MB<br />
 
 <strong>Nasıl Kurulur? (Resimli Anlatım)</strong>
 <img src="http://snaptube.apkindir.site/snaptube-kurulum.png">
+<br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Esneking -->
 <ins class="adsbygoogle"
