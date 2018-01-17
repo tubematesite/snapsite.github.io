@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Snaptube APK İndir (2018)
+title: Snaptube APK İndir, Kurulum ve Nasıl Kullanılır?
 permalink: /snaptube-apk-indir
 ---
 
