@@ -29,7 +29,7 @@ Boyut: 6 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a target="_blank" href="https://www.luckypatcher.mobi">İndir</a>
+<a target="_blank" href="http://www.virustemizlemeprogrami.gen.tr">İndir</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Esneking -->
 <ins class="adsbygoogle"
