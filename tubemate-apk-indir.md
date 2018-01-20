@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Snaptube APK İndir - Nasıl Kurulur?
-permalink: /snaptube-apk-indir
+title: Tubemate APK İndir - Nasıl Kurulur?
+permalink: /tubemate-apk-indir
 ---
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -15,12 +15,12 @@ permalink: /snaptube-apk-indir
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <center>
-Adı: Snaptube Apk İndirme Sayfası<br />
-Versiyon: 5.00.08 (En Son)<br />
-Son Güncelleme: 17 Ocak 2018<br />
+Adı: Tubemate Apk İndir<br />
+Versiyon: 2.5.0 (En Son)<br />
+Son Güncelleme: 20 Ocak 2018<br />
 Gereksinim: Android 3.0 ve Üstü<br />
 Virüs Taraması Sonucu: Temiz ✔<br />
-Boyut: 10 MB<br />
+Boyut: 6 MB<br />
 <center>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
@@ -41,10 +41,9 @@ Boyut: 10 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<h2>4 Adımda Snaptube Kurulumu</h2>
-<ul><li>Resmi sitesinden Snaptube APK uzantılı dosyasını telefonunuza indirin. Diğer sitelerden indirmeyin çünkü hepsi virüs ve hata dolu.</li>
-<li>APK dosyasını nereye indirdiyseniz o klasöre gidin ve üzerine dokunun.</li>
-<li>Android cihazınızın menüsündeki > güvenlik ayarlarınıza gidin ve > Bilinmeyen Kaynaklara İzin Ver seçeneğini işaretleyerek uygulamanın yüklenmesine izin verin.</li>
+<h2>4 Adımda Tubemate Kurulumu</h2>
+<ul><li>Resmi sitesinden Tubemate APK dosyasını indirin. İndirdiğiniz .apk uzantılı dosyaya tıkladığınızda "Bilinmeyen Kaynaklar" şeklinde bir uyarı verecektir. Orada bulunan Ayarlar butonuna tıklayın.</li>
+<li>Ayarlar butonu yoksa diğer yöntemi de anlatalım: Android cihazınızın menüsündeki > güvenlik ayarlarınıza gidin ve > Bilinmeyen Kaynaklara İzin Ver seçeneğini işaretleyerek uygulamanın yüklenmesine izin verin.</li>
 <li>İleri > İleri diyerek kurulumu tamamlayın. Şimdi cihazınızın ana sayfasına uygulamamızın logosu gelmiş olacaktır. Hemen kullanmaya başlayabilirsiniz.</li></ul>
 <center>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -54,15 +53,3 @@ Boyut: 10 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<img src="http://snaptube.apkindir.site/snaptube-kurulum.png">
-<br>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Esneking -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4659442398"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
