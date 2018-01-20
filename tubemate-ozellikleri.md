@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Snaptube Nasıl Kullanılır?
-permalink: /nasil-kullanilir
+title: Tubemate Özellikleri ve Ekran Görüntüleri
+permalink: /tubemate-ozellikleri
 ---
 
 <center>
